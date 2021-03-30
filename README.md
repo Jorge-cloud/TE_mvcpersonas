@@ -1,6 +1,6 @@
 # TE_mvcpersonas
 
-Practica 2
+Practica MVC Personas
 
 Tegnologias Emergentes
 
